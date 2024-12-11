@@ -1,0 +1,5 @@
+print ("Tran Tuan Tai")
+print("235752021610014")
+chuoi= input(" nhap chuoi: ").split()
+chuoi.sort()
+print (chuoi)
